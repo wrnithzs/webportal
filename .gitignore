@@ -1,0 +1,10 @@
+/public
+/vendor
+/node_modules
+Homestead.yaml
+Homestead.json
+composer.json
+config/database.php
+config/session.php
+composer.lock
+resources/views/vendor/.gitkeep
